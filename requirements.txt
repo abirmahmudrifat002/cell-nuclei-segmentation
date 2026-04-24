@@ -1,8 +1,0 @@
-numpy
-pandas
-opencv-python
-matplotlib
-openslide-python
-torch
-torchvision
-scikit-image
