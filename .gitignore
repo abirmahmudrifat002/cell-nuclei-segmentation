@@ -1,0 +1,29 @@
+# --- Datasets ---
+# We ignore these because raw images/masks are usually too large for GitHub 
+# and should be stored elsewhere (like Google Drive or Kaggle).
+images/
+masks/
+
+# --- Saved Models ---
+# The trained weights/models (like your best_model_v3.keras) are too large.
+model/
+*.keras
+*.h5
+
+# --- Python Virtual Environment ---
+# This contains thousands of library files specific to your PC.
+nuclei_tf_env/
+venv/
+env/
+
+# --- Jupyter Notebook Cache ---
+# These are temporary hidden files created when you run notebooks.
+.ipynb_checkpoints/
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
+
+# --- OS Generated Files ---
+Thumbs.db
+.DS_Store
