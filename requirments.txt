@@ -1,0 +1,9 @@
+tensorflow
+numpy
+opencv-python
+matplotlib
+albumentations
+scikit-learn
+tqdm
+Pillow
+jupyter
